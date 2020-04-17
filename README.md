@@ -1,2 +1,3 @@
 # PifInTheGueule
-Petit jeu de merde fais par une merde pour des merdes.
+Petit jeu de merde.
+Quand on se déshabille... ON EST NU !
